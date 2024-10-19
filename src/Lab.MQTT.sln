@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.MQTT.Broker", "Lab.MQTT.Broker\Lab.MQTT.Broker.csproj", "{C845D155-4AC3-4C41-A1DD-94A84DB507C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.MQTT.Publisher", "Lab.MQTT.Publisher\Lab.MQTT.Publisher.csproj", "{9BC32238-B113-4571-A193-4485E45B7637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.MQTT.Subscriber", "Lab.MQTT.Subscriber\Lab.MQTT.Subscriber.csproj", "{C93AB2E3-EBE2-4C84-A6DF-27A9AE73FF08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C845D155-4AC3-4C41-A1DD-94A84DB507C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C845D155-4AC3-4C41-A1DD-94A84DB507C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C845D155-4AC3-4C41-A1DD-94A84DB507C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C845D155-4AC3-4C41-A1DD-94A84DB507C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BC32238-B113-4571-A193-4485E45B7637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC32238-B113-4571-A193-4485E45B7637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC32238-B113-4571-A193-4485E45B7637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC32238-B113-4571-A193-4485E45B7637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C93AB2E3-EBE2-4C84-A6DF-27A9AE73FF08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93AB2E3-EBE2-4C84-A6DF-27A9AE73FF08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93AB2E3-EBE2-4C84-A6DF-27A9AE73FF08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93AB2E3-EBE2-4C84-A6DF-27A9AE73FF08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
